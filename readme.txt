@@ -12,8 +12,5 @@ $ git checkout --orphan <分支名称>
 
 # 替换掉本地的改动，新增的文件和已经添加到暂存区的内容不受影响
 $ git checkout <文件路径>
-<<<<<<< HEAD
 Creating a new branch is quick & simple.
-=======
 Creating a new branch is quick AND simple.
->>>>>>> feature1
